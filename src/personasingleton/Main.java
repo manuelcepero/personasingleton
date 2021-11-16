@@ -7,13 +7,13 @@ package personasingleton;
 
 import builder.PersonaBuild;
 import builder.PersonaBuilder;
-import personasingleton.entity.Persona;
+import personasingleton.singleton.Persona;
 
 /**
  *
  * @author Manuel
  */
-public class PersonaSingleton {
+public class Main {
     
     public static void main(String[] args) {
         
